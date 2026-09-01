@@ -1,2 +1,2 @@
-# for-cursor-job
-cursor 用
+# for-share
+AI 的作品一键导入
