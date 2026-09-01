@@ -1,2 +1,0 @@
-:HL["/for-share/jijian-linmo/_next/static/chunks/2rz1exmj1it4g.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"Dq1DP2PQ_fTrdhJQnXae-"}
